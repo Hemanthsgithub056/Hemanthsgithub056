@@ -134,7 +134,8 @@
     <a href="/README.md/images\linkedin.png" alt="linkedin" width="40px">
     </a>
  <a target="_blank" href="https://instagram.com/hemanthsig?igshid=MTIyMzRjYmRlZg=="> 
-  <img src=" images\instagram.png" alt="instagram" height="45"/></a>
+  <img src="https://www.instagram.com/p/BB70H3bMEH-/media/?size=m" alt="Instagram Image Medium">
+ </a>
     </a>
     <a target="_blank" href="https://www.linkedin.com/mwlite/in/hemanth-prabhu-r-18b23b254">
  <img src="images\linkedin.png"height="45" alt="linkedin"></a>
