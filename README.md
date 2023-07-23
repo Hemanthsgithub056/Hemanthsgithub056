@@ -133,9 +133,11 @@
 <div class="footer" align ="center" style="margin:15px;">
     <a href="/README.md/images\linkedin.png" alt="linkedin" width="40px">
     </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+ <a target="_blank" href="https://instagram.com/hemanthsig?igshid=MTIyMzRjYmRlZg=="> 
+  <img src=" images\instagram.png" alt="instagram" height="45"/></a>
     </a>
+    <a target="_blank" href="https://www.linkedin.com/mwlite/in/hemanth-prabhu-r-18b23b254">
+ <img src="images\linkedin.png"height="45" alt="linkedin"></a>
     <a href="mailto:hemanthprabhu056@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
