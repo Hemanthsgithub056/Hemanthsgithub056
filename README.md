@@ -19,4 +19,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![An image of @hemanthsgithub056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemanthsgithub056)](https://holopin.io/@hemanthsgithub056)
+
+### HACKTOBERFEST 2023 BADGES
+
+(https://holopin.me/hemanthsgithub056)](https://holopin.io/@hemanthsgithub056)
