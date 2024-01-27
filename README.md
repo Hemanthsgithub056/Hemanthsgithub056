@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hemanth Prabhu R
-# A web and ML  developer from Bangalore 
+# A web developer from Bangalore 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Python <br>🤝 I’m looking for help with web development
+🔭 I’m currently working on web development <br>👯 I’m looking to collaborate on Python or react JS <br>🤝 I’m looking for help with web development
 
 
 ## 🌐 Socials:
