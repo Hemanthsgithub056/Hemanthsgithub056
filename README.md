@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hemanth Prabhu R
 # A web developer from Bangalore 
 # 💫 About Me:
-🔭 I’m currently working on web development <br>👯 I’m looking to collaborate on Python or Next JS <br>🤝 I’m looking for help with web development
+🔭 I’m currently working on web development <br>👯 I’m looking to collaborate on ReactJS or Next JS <br>🤝 I’m looking for help with web development
 
 
 ## 🌐 Socials:
